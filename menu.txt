@@ -1,0 +1,16 @@
+##################
+# Read me file       #
+# Modes:              #
+# 1) Home            #
+# 2) Select           #
+# 3) Drawing         #
+# 4) Writing          #
+# 5) Screen          #
+##################
+# Press q to quit     #
+# Try to keep the    #
+# box around the    #
+# object!              #
+# Play around!         #
+# hit space to move on #
+##################
